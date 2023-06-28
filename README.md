@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/roydon-pereira)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/r0yd0n/) <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=roydon-p&style=flat-square">
+<a href="mailto:roydon12494@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <p align="justify">I am a Full-Stack developer with over 7 years of coding experience.</p>
 <p align="justify">I hold a Master's degree in Computer Science 🎓 from Northeastern University, Boston 🏛. </p>
